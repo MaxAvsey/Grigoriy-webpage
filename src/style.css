@@ -36,7 +36,7 @@
 }
 
 :root {
-  --main-bg-color: #ecdefa;
+  --main-bg-color: #e3e3e3;
 }
 
 html {
@@ -94,7 +94,7 @@ h2 {
   background-repeat: no-repeat;
 }
 .main_page {
-  background-image: linear-gradient(180deg, #ffffff, #eddffa);
+  background-image: linear-gradient(180deg, #ffffff, #e3e3e3);
   padding-bottom: 40px;
 }
 
@@ -215,7 +215,6 @@ h2 {
 .products__header-text {
   padding: 0 16px;
   font-size: 20px;
-  text-shadow: rgb(171 171 255) 1px 1px 0px;
 }
 
 .products__item {
@@ -229,14 +228,6 @@ h2 {
   margin-bottom: 50px;
 }
 
-.bg-even-item {
-  background-image: linear-gradient(
-    -20deg,
-    rgba(137, 43, 226, 0.184),
-    transparent 50%,
-    transparent
-  );
-}
 
 /* kits */
 
